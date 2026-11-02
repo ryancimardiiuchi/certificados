@@ -7,3 +7,7 @@
 | Título | Descrição | Data | Empresa | Categorias | Imagem | Link |
 |---|---|---|---|---|---|---|
 | Fundamentos da Programação Web | Introdução ao desenvolvimento web com HTML, CSS e JavaScript, além de fundamentos de controle de versão e colaboração utilizando Git e GitHub. | 2026-10-20 | Rocketseat | Web, HTML, CSS, JavaScript, Git, GitHub |  | [Ver certificado](https://app.rocketseat.com.br/certificates/ea8b91bb-a66e-40c5-b473-1d24eed27b3b) |
+
+| Título | Descrição | Data | Empresa | Categorias | Imagem | Link |
+|---|---|---|---|---|---|---|
+| Imersão Agentes de IA na Prática | Imersão em agentes de inteligência artificial, explorando conceitos e aplicações práticas de IA, desenvolvimento de chatbots e automação de tarefas e processos. | 2026-10-10 | Daxus | IA, Agentes, ChatBot, Automações |  |  |
